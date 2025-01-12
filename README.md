@@ -10,7 +10,17 @@
 
 ###
 
-<p align="left">- 🎯 Who I am: A curios student with a strong focus on backend development.<br>-💡 What I love: Neural network, Cellular Automata, Artifial Intelligence.<br>-🌍 Where I work: Algoriteam<br>🎓 My background: Degree in CS</p>
+<p align="left">
+
+  
+  - 🎯 Who I am: A curios student with a strong focus on backend development.<br>
+  
+  - 💡 What I love: Neural network, Cellular Automata, Artifial Intelligence.<br>
+  
+  - 🌍 Where I work: Algoriteam
+  
+  - 🎓 My background: Degree in CS
+</p>
 
 ###
 
