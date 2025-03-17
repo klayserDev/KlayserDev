@@ -98,10 +98,5 @@
 
 ###
 
-<br clear="both">
-
-<div align="center" direction="column">
-  <img src="https://streak-stats.demolab.com?user=klayserdev&locale=en&mode=daily&theme=monokai&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
 
 ###
