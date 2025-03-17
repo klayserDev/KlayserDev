@@ -17,8 +17,6 @@
   
   - 💡 What I love: Neural network, Cellular Automata, Artifial Intelligence.<br>
   
-  - 🌍 Where I work: Algoriteam
-  
   - 🎓 My background: Degree in CS
 </p>
 
