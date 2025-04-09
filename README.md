@@ -15,7 +15,7 @@
   
   - 🎯 Who I am: A curios student with a strong focus on backend development.<br>
   
-  - 💡 What I love: Neural network, Cellular Automata, Artifial Intelligence.<br>
+  - 💡 What I love: Neural network, Cellular Automata, Artificial Intelligence.<br>
   
   - 🎓 My background: Degree in CS
 </p>
