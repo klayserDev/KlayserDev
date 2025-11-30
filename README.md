@@ -12,3 +12,7 @@ I am a Computer Science graduate passionate about the intersection of **Backend 
   - **Neural Networks:** Understanding the "black box."
   - **Cellular Automata:** Simulating complex systems from simple rules.
   - **Backend Dev:** Building scalable, secure architectures.
+
+### 🌟 Featured Project
+**[DotVeil](https://github.com/Klayser/dotveil)** - A Zero-Knowledge secret management CLI tool. 
+*Secure, simple, and built for developers.*
