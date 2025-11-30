@@ -1,26 +1,14 @@
-<h1 align="left">👋 Hi there, I'm Klayser!</h1>
+# Hi there, I'm Klayser! 👋
 
-###
+### 👨‍💻 AI & Backend Engineer
+I am a Computer Science graduate passionate about the intersection of **Backend Systems** and **Artificial Intelligence**. I love building tools that feel like magic and diving deep into the math behind neural networks.
 
-<p align="left">Welcome to my GitHub profile! 🚀 I'm a passionate AI, LLM, softwer development. I thrive on learning, creating, and sharing ideas.</p>
+---
 
-###
-
-<h2 align="left">🔧 About Me</h2>
-
-###
-
-<p align="left">
-
-  
-  - 🎯 Who I am: A curios student with a strong focus on backend development.<br>
-  
-  - 💡 What I love: Neural network, Cellular Automata, Artificial Intelligence.<br>
-  
-  - 🎓 My background: Degree in CS
-</p>
-
-
-
-
-###
+### 🚀 About Me
+- 🎓 **Background:** Degree in Computer Science.
+- 🔭 **Currently exploring:** Large Language Models (LLMs) and optimization algorithms.
+- 💡 **Interests:**
+  - **Neural Networks:** Understanding the "black box."
+  - **Cellular Automata:** Simulating complex systems from simple rules.
+  - **Backend Dev:** Building scalable, secure architectures.
