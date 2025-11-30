@@ -14,5 +14,5 @@ I am a Computer Science graduate passionate about the intersection of **Backend 
   - **Backend Dev:** Building scalable, secure architectures.
 
 ### 🌟 Featured Project
-**[DotVeil](https://github.com/Klayser/dotveil)** - A Zero-Knowledge secret management CLI tool. 
+**[DotVeil](https://github.com/Klayserdev/dotveil)** - A Zero-Knowledge secret management CLI tool. 
 *Secure, simple, and built for developers.*
